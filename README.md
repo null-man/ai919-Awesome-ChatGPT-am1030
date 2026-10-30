@@ -693,6 +693,9 @@ use temperature of 2
 同时，我们也可以尝试使用其他符号，例如 ### 符号，来区隔指令和待处理文本。根据实际情况，选择合适的符号可以帮助我们更好地与 AI 进行交互，并得到更准确的处理结果。
 
 ## 💡 生成图片
+- [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design)：Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev)：Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 准确地来说是提供图片，而不是生成！这里介绍一种方式：透过 Unsplash API 让 ChatGPT 能够产生图片 + 文字的回答。只需在提示词中使用 Unsplash 的 API 并使用 Markdown 语法即可在 ChatGPT 中显示图片：
 
